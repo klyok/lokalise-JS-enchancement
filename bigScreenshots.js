@@ -8,6 +8,8 @@
 // @include       https://lokalise.co/*
 // @grant none
 // @run-at document-end
+// @icon url
+// @updateURL https://openuserjs.org/meta/klyok/bigScreenshots.meta.js
 // ==/UserScript==
 
 // ==OpenUserJS==
